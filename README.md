@@ -1,24 +1,11 @@
-# README
+# Tweeter
+A twitter-like application that has users and microposts. I'm writing it as I learn hwo to use Ruby On rails using the book by Micheal Hartl: https://www.railstutorial.org/book
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To use this app: 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Clone the repository to your local machine
+* Install gems: 
+'''
+bundle install --without production
+'''
+* More to come
