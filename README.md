@@ -4,8 +4,10 @@ A twitter-like application that has users and microposts. I'm writing it as I le
 To use this app: 
 
 * Clone the repository to your local machine
-* Install gems: 
+* Install gems:
+
 '''
-bundle install --without production
+$ bundle install --without production
 '''
+
 * More to come
