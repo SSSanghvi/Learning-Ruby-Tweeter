@@ -6,8 +6,8 @@ To use this app:
 * Clone the repository to your local machine
 * Install gems:
 
-'''
+```
 $ bundle install --without production
-'''
+```
 
 * More to come
