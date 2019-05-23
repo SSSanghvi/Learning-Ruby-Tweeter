@@ -1,4 +1,13 @@
-<body>
-  <h1>Tweeter!</h1>
-  <p>This is the home page of Tweeter, a twitter-like app. </p>
-</body>
+<div class="center jumbotron">
+  <h1>Welcome to Tweeter! </h1>
+
+  <h2>
+    Tweeter is the next-generation social media platform connecting like-minded people around the world. 
+  </h2>
+
+  <%= link_to "Sign up now!", signup_path, class: "btn btn-lg btn-primary" %>
+</div>
+
+<%= link_to image_tag("rails.png", alt: "Rails logo"),
+            'http://rubyonrails.org/' %>
+<%#= link_to image_tag("kitten.jpg", alt: "Kitten")%>
